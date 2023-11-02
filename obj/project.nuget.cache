@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLmxcF42TXfNf09tgbVUt/3Qnuau1K2I+1dgyF/HGo5F2YFRf5okrBHBRhf8+YJ4/huPVSkCQ7lfHoInW/d63g==",
+  "success": true,
+  "projectFilePath": "G:\\allProjects\\csharp\\wpf\\GreenLumaGUI\\GreenLumaGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dxo1a\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\dxo1a\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\dxo1a\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\dxo1a\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
