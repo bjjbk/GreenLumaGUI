@@ -5,13 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GreenLumaGUI"
         mc:Ignorable="d"
-        Title="GreenLumaGUI" Height="450" Width="800">
+        Title="GreenLumaGUI" Height="450" Width="800" WindowStyle="None" Style="{StaticResource LocalizedStyledWindow}"
+        xmlns:themes="clr-namespace:StyledWindow.WPF.Themes;assembly=StyledWindow.WPF" xmlns:components="clr-namespace:StyledWindow.WPF.Components;assembly=StyledWindow.WPF"
+        themes:StyledWindow.LanguageButtonVisible="False"
+        themes:StyledWindow.ThemeButtonVisible="False"
+        themes:StyledWindow.ThemeToggleVisible="False"
+        themes:StyledWindow.TopmostButtonVisible="False">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="20"/>
-            <RowDefinition Height="0.3*"/>
+            <RowDefinition Height="0"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="20"/>
+            <RowDefinition Height="0"/>
         </Grid.RowDefinitions>
+
+        <Frame Name="MainFrame" Grid.Row="1" NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-G:\allProjects\csharp\wpf\GreenLumaGUI\obj\Debug\net6.0-windows\
+C:\Users\it01\Desktop\GreenLumaGUI\obj\Debug\net6.0-windows\
 GreenLumaGUI
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-G:\allProjects\csharp\wpf\GreenLumaGUI\App.xaml
-11407045341
+C:\Users\it01\Desktop\GreenLumaGUI\App.xaml
+3-159374734
 
-5-1245058820
-194-2054086522
-MainWindow.xaml;
+81108813666
+2101222013846
+MainWindow.xaml;Pages\MainPage.xaml;Pages\SettingsPage.xaml;
 
 False
 
